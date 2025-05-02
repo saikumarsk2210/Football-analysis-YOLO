@@ -6,7 +6,7 @@ Implemented a comprehensive computer vision and machine learning project for foo
 
 ## 🖼️ Output Frame Preview
 
-![Demo Frame](output_vides/output_video_image.png)
+![Demo Frame](output_videos/output_video_image.png)
 
 > **Above:** The system detecting players, assigning teams, estimating motion, and transforming views during real-time match footage analysis.
 
